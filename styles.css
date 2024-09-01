@@ -124,10 +124,11 @@ body {
       rgba(255, 255, 255, 0),
       var(--primary-color)
     ),
-    url("assets/fundal3.png");
+    url("assets/fundal5.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  /* background-attachment: fixed; */
   z-index: -1;
 }
 
