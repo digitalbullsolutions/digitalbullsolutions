@@ -127,6 +127,6 @@
 
 /* Hover effect to make steps grow */
 .tutorial__step:hover {
-  transform: scale(2);
+  transform: scale(1.5);
   box-shadow: 0 6px 30px rgba(0, 0, 0, 0.5);
 }
