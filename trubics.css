@@ -1,16 +1,16 @@
-/* minescape.css */
-/* .minescape__header .section__subheader::before {
+/* trubics.css */
+/* .trubics__header .section__subheader::before {
     display: none;
     align-items: center;
   } */
-.header.minescape__header {
+.header.trubics__header {
   background: var(--primary-color);
   height: auto;
   padding-top: 7rem;
   text-align: center;
 }
 
-.minescape__header .section__header {
+.trubics__header .section__header {
   font-size: 3rem;
   font-weight: 700;
   margin-bottom: 1rem;
@@ -18,24 +18,24 @@
   text-align: center;
 }
 
-.minescape__header .section__subheader {
+.trubics__header .section__subheader {
   font-size: 1.2rem;
   color: var(--secondary-color);
   margin-bottom: 1rem;
 }
 
-.minescape__header p {
+.trubics__header p {
   color: var(--text-light);
   font-size: 1rem;
 }
 
-.minescape__about {
+.trubics__about {
   background: var(--primary-color);
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
 
-.minescape__about .about__content p {
+.trubics__about .about__content p {
   margin-bottom: 2rem;
   font-size: 1rem;
   color: var(--text-light);
@@ -68,12 +68,12 @@
   font-size: 1.5rem;
 }
 /* Tutorial section styling */
-.minescape__tutorial {
+.trubics__tutorial {
   background: var(--primary-color);
   padding: 5rem 1rem;
 }
 
-.minescape__tutorial .section__header {
+.trubics__tutorial .section__header {
   text-align: center;
   margin-bottom: 3rem;
   color: var(--white);
